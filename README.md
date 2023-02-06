@@ -1,16 +1,24 @@
-### Hi there 👋
+# Kelvyn Lopes Telles
 
-<!--
-**kelvyntelles/kelvyntelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://www.linkedin.com/in/kelvyn-telles-35775920b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-Here are some ideas to get you started:
+<h3>Olá! Bem vindo ao meu GitHub</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Kelvyn Telles, sou formado em Engenharia de Software pela Universidade de Vassouras.
+
+- Linguagens dominates ( HTML | CSS | JavaScript ) 
+  
+- Linguagens front-end utilizadas no dia a dia ( React JS | Typescript | Styled-Components )
+
+- Linguagens back-end utilizadas no dia a dia ( Node JS | Typescript | Express | PrismaORM )
+
+- Linguagens bando de dados utilizadas no dia a dia ( MySQL )
+
+- Aprendendo ( React Native | Next JS ) 
+
+<div>
+<a href="https://github.com/kelvyntelles/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvyntelles&layout=compact&langs_count=7&theme=dracula"/>
+</div>
