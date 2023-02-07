@@ -18,7 +18,4 @@ Meu nome é Kelvyn Telles, sou formado em Engenharia de Software pela Universida
 
 - Aprendendo ( React Native | Next JS ) 
 
-<div>
-<a href="https://github.com/kelvyntelles/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvyntelles&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
