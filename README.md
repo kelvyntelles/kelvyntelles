@@ -12,7 +12,7 @@ Meu nome é Kelvyn Telles, sou formado em Engenharia de Software pela Universida
   
 - Linguagens front-end utilizadas no dia a dia ( React JS | Typescript | Styled-Components )
 
-- Linguagens back-end utilizadas no dia a dia ( Node JS | Typescript | Express | PrismaORM )
+- Linguagens back-end utilizadas no dia a dia ( Node JS | Typescript | Express | PrismaORM | MySQL)
 
 - Linguagens bando de dados utilizadas no dia a dia ( MySQL )
 
