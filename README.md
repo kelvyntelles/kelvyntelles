@@ -8,14 +8,10 @@
 
 Meu nome é Kelvyn Telles, sou formado em Engenharia de Software pela Universidade de Vassouras.
 
-- Linguagens dominates ( HTML | CSS | JavaScript ) 
+- Linguagens dominates ( HTML | CSS | JavaScript | Python ) 
   
-- Linguagens front-end utilizadas no dia a dia ( React JS | Typescript | Styled-Components )
+- Linguagens utilizadas no dia a dia ( Python | Django | Jinja | MySQL )
 
-- Linguagens back-end utilizadas no dia a dia ( Node JS | Typescript | Express | PrismaORM | MySQL)
-
-- Linguagens bando de dados utilizadas no dia a dia ( MySQL )
-
-- Aprendendo ( React Native | Next JS ) 
+- Aprendendo ( React | React Native | Node JS ) 
 
 
