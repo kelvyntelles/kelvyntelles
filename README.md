@@ -10,9 +10,9 @@ Meu nome é Kelvyn Telles, sou formado em Engenharia de Software pela Universida
 
 - Linguagens dominates ( HTML | CSS | JavaScript | Python ) 
   
-- Linguagens utilizadas no dia a dia ( Python | Django | Jinja | MySQL )
+- Linguagens utilizadas no dia a dia ( Python | Django | MySQL | Javascript | Vue.js )
 
-- Aprendendo ( React | React Native | Node JS ) 
+- Mobile ( Flutter ) 
 
 <div>
 <a href="https://github.com/kelvyntelles">
