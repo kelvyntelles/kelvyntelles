@@ -8,12 +8,6 @@
 
 Meu nome é Kelvyn Telles, sou formado em Engenharia de Software pela Universidade de Vassouras.
 
-- Linguagens dominates ( HTML | CSS | JavaScript | Python ) 
-  
-- Linguagens utilizadas no dia a dia ( Python | Django | MySQL | Javascript | Vue.js )
-
-- Mobile ( Flutter ) 
-
 <div>
 <a href="https://github.com/kelvyntelles">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvyntelles&layout=compact&langs_count=7&theme=dracula"/>
