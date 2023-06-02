@@ -8,7 +8,7 @@
 
 Meu nome é Kelvyn Telles, sou formado em Engenharia de Software pela Universidade de Vassouras.
 
-Desenvolvedor ReactJS | Javascript | Typescript
+Desenvolvedor Front-End: ReactJS | Javascript | Typescript
 
 <div>
 <a href="https://github.com/kelvyntelles">
