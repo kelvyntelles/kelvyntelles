@@ -8,12 +8,13 @@
 
 Meu nome é Kelvyn Telles, sou formado em Engenharia de Software pela Universidade de Vassouras.
 
-Desenvolvedor Front-End: ReactJS | Javascript | Typescript
+<h1>Desenvolvedor Full Stack</h1>
 
-<div>
-<a href="https://github.com/kelvyntelles">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvyntelles&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvyntelles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+Linguagens Front-End: Javascript | Typescript | ReactJS | NextJS
+
+Linguagens Back-End: Java | Spring Boot | SQL | Docker
+
+Linguagens Mobile: Javascript | Typescript | React Native
+
 
 
