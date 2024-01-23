@@ -12,9 +12,9 @@ Meu nome é Kelvyn Telles, sou formado em Engenharia de Software pela Universida
 
 Linguagens Front-End: Javascript | Typescript | ReactJS | NextJS
 
-Linguagens Back-End: PHP | Laravel | SQL | Docker
+Linguagens Back-End: Python | Django | SQL | Docker
 
-Linguagens Mobile: Javascript | Typescript | React Native
+Linguagens Mobile: React Native
 
 
 
